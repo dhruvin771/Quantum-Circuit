@@ -1,0 +1,3 @@
+### This repository contains a hands-on lesson for learning quantum computing with Qiskit. It shows how to build a simple Bell state circuit, run it on a simulator or real IBM quantum computer, and read the measurement results.
+
+[https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program)
